@@ -10,7 +10,8 @@
 - [ ] todo list
 - [x] todo list
 
-s = "Python syntax highlighting"
-print s
+[![Everything Is AWESOME](https://www.youtube.com/watch?v=sSm2dRarhPo)
+
+
 
 
