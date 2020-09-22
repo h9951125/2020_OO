@@ -6,4 +6,3 @@
 - [ ] todo list
 - [x] todo list
 [![Everything Is AWESOME](https://www.youtube.com/watch?v=sSm2dRarhPo)
-
