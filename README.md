@@ -5,4 +5,4 @@
 ### 題目:xxxxxx
 
 #### 摘要:
-![NKFUST](nkfust.jpg "第一科大")
+![NKFUST](nkfust.png "第一科大")
