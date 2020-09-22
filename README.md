@@ -10,6 +10,7 @@
 - [ ] todo list
 - [x] todo list
 
-s="Python syntax highlighting"
+s = "Python syntax highlighting"
+print s
 
 
